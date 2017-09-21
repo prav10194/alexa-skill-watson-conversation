@@ -145,7 +145,7 @@ Edit the `main.js` file and add the required settings.
 #### `main.js`
 
 ```js
-//Replace the previos version_date with - 
+//Replace the previous version_date with - 
 version_date: ConversationV1.VERSION_DATE_2017_02_03
 ```
 
