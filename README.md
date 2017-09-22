@@ -162,6 +162,7 @@ to create a raw HTTP web action in OpenWhisk.
 
 ```sh
 $ npm install
+$ npm install alexa-verifier 
 $ zip -r action.zip * 
 $ bx wsk action update alexa-watson action.zip --kind nodejs:6 --web raw --param-file .params
 ```
